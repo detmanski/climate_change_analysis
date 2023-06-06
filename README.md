@@ -23,3 +23,7 @@ Helin
 Tejas
 Anna
 Dianne
+
+Sources:
+climatedata.imf.org
+https://cwfis.cfs.nrcan.gc.ca/ha/nfdb 
