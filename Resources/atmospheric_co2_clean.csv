@@ -1,0 +1,1549 @@
+ObjectId,Country,Unit,Date,Amount
+1,World,Parts Per Million,1958-03-01,315.7
+2,World,Parts Per Million,1958-04-01,317.45
+3,World,Parts Per Million,1958-05-01,317.51
+4,World,Parts Per Million,1958-06-01,317.24
+5,World,Parts Per Million,1958-07-01,315.86
+6,World,Parts Per Million,1958-08-01,314.93
+7,World,Parts Per Million,1958-09-01,313.2
+8,World,Parts Per Million,1958-10-01,312.43
+9,World,Parts Per Million,1958-11-01,313.33
+10,World,Parts Per Million,1958-12-01,314.67
+11,World,Parts Per Million,1959-01-01,315.58
+12,World,Parts Per Million,1959-02-01,316.48
+13,World,Parts Per Million,1959-03-01,316.65
+14,World,Percent,1959-03-01,0.3
+15,World,Parts Per Million,1959-04-01,317.72
+16,World,Percent,1959-04-01,0.09
+17,World,Parts Per Million,1959-05-01,318.29
+18,World,Percent,1959-05-01,0.25
+19,World,Parts Per Million,1959-06-01,318.15
+20,World,Percent,1959-06-01,0.29
+21,World,Parts Per Million,1959-07-01,316.54
+22,World,Percent,1959-07-01,0.22
+23,World,Parts Per Million,1959-08-01,314.8
+24,World,Percent,1959-08-01,-0.04
+25,World,Parts Per Million,1959-09-01,313.84
+26,World,Percent,1959-09-01,0.2
+27,World,Parts Per Million,1959-10-01,313.33
+28,World,Percent,1959-10-01,0.29
+29,World,Parts Per Million,1959-11-01,314.81
+30,World,Percent,1959-11-01,0.47
+31,World,Parts Per Million,1959-12-01,315.58
+32,World,Percent,1959-12-01,0.29
+33,World,Parts Per Million,1960-01-01,316.43
+34,World,Percent,1960-01-01,0.27
+35,World,Parts Per Million,1960-02-01,316.98
+36,World,Percent,1960-02-01,0.16
+37,World,Parts Per Million,1960-03-01,317.58
+38,World,Percent,1960-03-01,0.29
+39,World,Parts Per Million,1960-04-01,319.03
+40,World,Percent,1960-04-01,0.41
+41,World,Parts Per Million,1960-05-01,320.04
+42,World,Percent,1960-05-01,0.55
+43,World,Parts Per Million,1960-06-01,319.59
+44,World,Percent,1960-06-01,0.45
+45,World,Parts Per Million,1960-07-01,318.18
+46,World,Percent,1960-07-01,0.52
+47,World,Parts Per Million,1960-08-01,315.9
+48,World,Percent,1960-08-01,0.35
+49,World,Parts Per Million,1960-09-01,314.17
+50,World,Percent,1960-09-01,0.11
+51,World,Parts Per Million,1960-10-01,313.83
+52,World,Percent,1960-10-01,0.16
+53,World,Parts Per Million,1960-11-01,315.0
+54,World,Percent,1960-11-01,0.06
+55,World,Parts Per Million,1960-12-01,316.19
+56,World,Percent,1960-12-01,0.19
+57,World,Parts Per Million,1961-01-01,316.89
+58,World,Percent,1961-01-01,0.15
+59,World,Parts Per Million,1961-02-01,317.7
+60,World,Percent,1961-02-01,0.23
+61,World,Parts Per Million,1961-03-01,318.54
+62,World,Percent,1961-03-01,0.3
+63,World,Parts Per Million,1961-04-01,319.48
+64,World,Percent,1961-04-01,0.14
+65,World,Parts Per Million,1961-05-01,320.58
+66,World,Percent,1961-05-01,0.17
+67,World,Parts Per Million,1961-06-01,319.77
+68,World,Percent,1961-06-01,0.06
+69,World,Parts Per Million,1961-07-01,318.57
+70,World,Percent,1961-07-01,0.12
+71,World,Parts Per Million,1961-08-01,316.79
+72,World,Percent,1961-08-01,0.28
+73,World,Parts Per Million,1961-09-01,314.99
+74,World,Percent,1961-09-01,0.26
+75,World,Parts Per Million,1961-10-01,315.31
+76,World,Percent,1961-10-01,0.47
+77,World,Parts Per Million,1961-11-01,316.1
+78,World,Percent,1961-11-01,0.35
+79,World,Parts Per Million,1961-12-01,317.01
+80,World,Percent,1961-12-01,0.26
+81,World,Parts Per Million,1962-01-01,317.94
+82,World,Percent,1962-01-01,0.33
+83,World,Parts Per Million,1962-02-01,318.55
+84,World,Percent,1962-02-01,0.27
+85,World,Parts Per Million,1962-03-01,319.68
+86,World,Percent,1962-03-01,0.36
+87,World,Parts Per Million,1962-04-01,320.57
+88,World,Percent,1962-04-01,0.34
+89,World,Parts Per Million,1962-05-01,321.02
+90,World,Percent,1962-05-01,0.14
+91,World,Parts Per Million,1962-06-01,320.62
+92,World,Percent,1962-06-01,0.27
+93,World,Parts Per Million,1962-07-01,319.61
+94,World,Percent,1962-07-01,0.33
+95,World,Parts Per Million,1962-08-01,317.4
+96,World,Percent,1962-08-01,0.19
+97,World,Parts Per Million,1962-09-01,316.25
+98,World,Percent,1962-09-01,0.4
+99,World,Parts Per Million,1962-10-01,315.42
+100,World,Percent,1962-10-01,0.03
+101,World,Parts Per Million,1962-11-01,316.69
+102,World,Percent,1962-11-01,0.19
+103,World,Parts Per Million,1962-12-01,317.7
+104,World,Percent,1962-12-01,0.22
+105,World,Parts Per Million,1963-01-01,318.74
+106,World,Percent,1963-01-01,0.25
+107,World,Parts Per Million,1963-02-01,319.07
+108,World,Percent,1963-02-01,0.16
+109,World,Parts Per Million,1963-03-01,319.86
+110,World,Percent,1963-03-01,0.06
+111,World,Parts Per Million,1963-04-01,321.38
+112,World,Percent,1963-04-01,0.25
+113,World,Parts Per Million,1963-05-01,322.25
+114,World,Percent,1963-05-01,0.38
+115,World,Parts Per Million,1963-06-01,321.48
+116,World,Percent,1963-06-01,0.27
+117,World,Parts Per Million,1963-07-01,319.74
+118,World,Percent,1963-07-01,0.04
+119,World,Parts Per Million,1963-08-01,317.77
+120,World,Percent,1963-08-01,0.12
+121,World,Parts Per Million,1963-09-01,316.21
+122,World,Percent,1963-09-01,-0.01
+123,World,Parts Per Million,1963-10-01,315.99
+124,World,Percent,1963-10-01,0.18
+125,World,Parts Per Million,1963-11-01,317.07
+126,World,Percent,1963-11-01,0.12
+127,World,Parts Per Million,1963-12-01,318.35
+128,World,Percent,1963-12-01,0.2
+129,World,Parts Per Million,1964-01-01,319.57
+130,World,Percent,1964-01-01,0.26
+131,World,Parts Per Million,1964-02-01,320.01
+132,World,Percent,1964-02-01,0.29
+133,World,Parts Per Million,1964-03-01,320.74
+134,World,Percent,1964-03-01,0.28
+135,World,Parts Per Million,1964-04-01,321.84
+136,World,Percent,1964-04-01,0.14
+137,World,Parts Per Million,1964-05-01,322.26
+138,World,Percent,1964-05-01,0.0
+139,World,Parts Per Million,1964-06-01,321.89
+140,World,Percent,1964-06-01,0.13
+141,World,Parts Per Million,1964-07-01,320.44
+142,World,Percent,1964-07-01,0.22
+143,World,Parts Per Million,1964-08-01,318.69
+144,World,Percent,1964-08-01,0.29
+145,World,Parts Per Million,1964-09-01,316.7
+146,World,Percent,1964-09-01,0.15
+147,World,Parts Per Million,1964-10-01,316.87
+148,World,Percent,1964-10-01,0.28
+149,World,Parts Per Million,1964-11-01,317.68
+150,World,Percent,1964-11-01,0.19
+151,World,Parts Per Million,1964-12-01,318.71
+152,World,Percent,1964-12-01,0.11
+153,World,Parts Per Million,1965-01-01,319.44
+154,World,Percent,1965-01-01,-0.04
+155,World,Parts Per Million,1965-02-01,320.44
+156,World,Percent,1965-02-01,0.13
+157,World,Parts Per Million,1965-03-01,320.89
+158,World,Percent,1965-03-01,0.05
+159,World,Parts Per Million,1965-04-01,322.14
+160,World,Percent,1965-04-01,0.09
+161,World,Parts Per Million,1965-05-01,322.17
+162,World,Percent,1965-05-01,-0.03
+163,World,Parts Per Million,1965-06-01,321.87
+164,World,Percent,1965-06-01,-0.01
+165,World,Parts Per Million,1965-07-01,321.21
+166,World,Percent,1965-07-01,0.24
+167,World,Parts Per Million,1965-08-01,318.87
+168,World,Percent,1965-08-01,0.06
+169,World,Parts Per Million,1965-09-01,317.81
+170,World,Percent,1965-09-01,0.35
+171,World,Parts Per Million,1965-10-01,317.3
+172,World,Percent,1965-10-01,0.14
+173,World,Parts Per Million,1965-11-01,318.87
+174,World,Percent,1965-11-01,0.37
+175,World,Parts Per Million,1965-12-01,319.42
+176,World,Percent,1965-12-01,0.22
+177,World,Parts Per Million,1966-01-01,320.62
+178,World,Percent,1966-01-01,0.37
+179,World,Parts Per Million,1966-02-01,321.6
+180,World,Percent,1966-02-01,0.36
+181,World,Parts Per Million,1966-03-01,322.39
+182,World,Percent,1966-03-01,0.47
+183,World,Parts Per Million,1966-04-01,323.7
+184,World,Percent,1966-04-01,0.48
+185,World,Parts Per Million,1966-05-01,324.08
+186,World,Percent,1966-05-01,0.59
+187,World,Parts Per Million,1966-06-01,323.75
+188,World,Percent,1966-06-01,0.58
+189,World,Parts Per Million,1966-07-01,322.38
+190,World,Percent,1966-07-01,0.36
+191,World,Parts Per Million,1966-08-01,320.36
+192,World,Percent,1966-08-01,0.47
+193,World,Parts Per Million,1966-09-01,318.64
+194,World,Percent,1966-09-01,0.26
+195,World,Parts Per Million,1966-10-01,318.1
+196,World,Percent,1966-10-01,0.25
+197,World,Parts Per Million,1966-11-01,319.78
+198,World,Percent,1966-11-01,0.29
+199,World,Parts Per Million,1966-12-01,321.03
+200,World,Percent,1966-12-01,0.5
+201,World,Parts Per Million,1967-01-01,322.33
+202,World,Percent,1967-01-01,0.53
+203,World,Parts Per Million,1967-02-01,322.5
+204,World,Percent,1967-02-01,0.28
+205,World,Parts Per Million,1967-03-01,323.04
+206,World,Percent,1967-03-01,0.2
+207,World,Parts Per Million,1967-04-01,324.42
+208,World,Percent,1967-04-01,0.22
+209,World,Parts Per Million,1967-05-01,325.0
+210,World,Percent,1967-05-01,0.28
+211,World,Parts Per Million,1967-06-01,324.09
+212,World,Percent,1967-06-01,0.11
+213,World,Parts Per Million,1967-07-01,322.54
+214,World,Percent,1967-07-01,0.05
+215,World,Parts Per Million,1967-08-01,320.92
+216,World,Percent,1967-08-01,0.17
+217,World,Parts Per Million,1967-09-01,319.25
+218,World,Percent,1967-09-01,0.19
+219,World,Parts Per Million,1967-10-01,319.39
+220,World,Percent,1967-10-01,0.41
+221,World,Parts Per Million,1967-11-01,320.73
+222,World,Percent,1967-11-01,0.3
+223,World,Parts Per Million,1967-12-01,321.96
+224,World,Percent,1967-12-01,0.29
+225,World,Parts Per Million,1968-01-01,322.57
+226,World,Percent,1968-01-01,0.07
+227,World,Parts Per Million,1968-02-01,323.15
+228,World,Percent,1968-02-01,0.2
+229,World,Parts Per Million,1968-03-01,323.89
+230,World,Percent,1968-03-01,0.26
+231,World,Parts Per Million,1968-04-01,325.02
+232,World,Percent,1968-04-01,0.18
+233,World,Parts Per Million,1968-05-01,325.57
+234,World,Percent,1968-05-01,0.18
+235,World,Parts Per Million,1968-06-01,325.36
+236,World,Percent,1968-06-01,0.39
+237,World,Parts Per Million,1968-07-01,324.14
+238,World,Percent,1968-07-01,0.5
+239,World,Parts Per Million,1968-08-01,322.11
+240,World,Percent,1968-08-01,0.37
+241,World,Parts Per Million,1968-09-01,320.33
+242,World,Percent,1968-09-01,0.34
+243,World,Parts Per Million,1968-10-01,320.25
+244,World,Percent,1968-10-01,0.27
+245,World,Parts Per Million,1968-11-01,321.32
+246,World,Percent,1968-11-01,0.18
+247,World,Parts Per Million,1968-12-01,322.89
+248,World,Percent,1968-12-01,0.29
+249,World,Parts Per Million,1969-01-01,324.0
+250,World,Percent,1969-01-01,0.44
+251,World,Parts Per Million,1969-02-01,324.42
+252,World,Percent,1969-02-01,0.39
+253,World,Parts Per Million,1969-03-01,325.63
+254,World,Percent,1969-03-01,0.54
+255,World,Parts Per Million,1969-04-01,326.66
+256,World,Percent,1969-04-01,0.5
+257,World,Parts Per Million,1969-05-01,327.38
+258,World,Percent,1969-05-01,0.56
+259,World,Parts Per Million,1969-06-01,326.71
+260,World,Percent,1969-06-01,0.41
+261,World,Parts Per Million,1969-07-01,325.88
+262,World,Percent,1969-07-01,0.54
+263,World,Parts Per Million,1969-08-01,323.66
+264,World,Percent,1969-08-01,0.48
+265,World,Parts Per Million,1969-09-01,322.38
+266,World,Percent,1969-09-01,0.64
+267,World,Parts Per Million,1969-10-01,321.78
+268,World,Percent,1969-10-01,0.48
+269,World,Parts Per Million,1969-11-01,322.86
+270,World,Percent,1969-11-01,0.48
+271,World,Parts Per Million,1969-12-01,324.12
+272,World,Percent,1969-12-01,0.38
+273,World,Parts Per Million,1970-01-01,325.06
+274,World,Percent,1970-01-01,0.33
+275,World,Parts Per Million,1970-02-01,325.98
+276,World,Percent,1970-02-01,0.48
+277,World,Parts Per Million,1970-03-01,326.93
+278,World,Percent,1970-03-01,0.4
+279,World,Parts Per Million,1970-04-01,328.13
+280,World,Percent,1970-04-01,0.45
+281,World,Parts Per Million,1970-05-01,328.08
+282,World,Percent,1970-05-01,0.21
+283,World,Parts Per Million,1970-06-01,327.67
+284,World,Percent,1970-06-01,0.29
+285,World,Parts Per Million,1970-07-01,326.34
+286,World,Percent,1970-07-01,0.14
+287,World,Parts Per Million,1970-08-01,324.69
+288,World,Percent,1970-08-01,0.32
+289,World,Parts Per Million,1970-09-01,323.1
+290,World,Percent,1970-09-01,0.22
+291,World,Parts Per Million,1970-10-01,323.06
+292,World,Percent,1970-10-01,0.4
+293,World,Parts Per Million,1970-11-01,324.01
+294,World,Percent,1970-11-01,0.36
+295,World,Parts Per Million,1970-12-01,325.13
+296,World,Percent,1970-12-01,0.31
+297,World,Parts Per Million,1971-01-01,326.17
+298,World,Percent,1971-01-01,0.34
+299,World,Parts Per Million,1971-02-01,326.68
+300,World,Percent,1971-02-01,0.21
+301,World,Parts Per Million,1971-03-01,327.17
+302,World,Percent,1971-03-01,0.07
+303,World,Parts Per Million,1971-04-01,327.79
+304,World,Percent,1971-04-01,-0.1
+305,World,Parts Per Million,1971-05-01,328.93
+306,World,Percent,1971-05-01,0.26
+307,World,Parts Per Million,1971-06-01,328.57
+308,World,Percent,1971-06-01,0.27
+309,World,Parts Per Million,1971-07-01,327.36
+310,World,Percent,1971-07-01,0.31
+311,World,Parts Per Million,1971-08-01,325.43
+312,World,Percent,1971-08-01,0.23
+313,World,Parts Per Million,1971-09-01,323.36
+314,World,Percent,1971-09-01,0.08
+315,World,Parts Per Million,1971-10-01,323.56
+316,World,Percent,1971-10-01,0.15
+317,World,Parts Per Million,1971-11-01,324.8
+318,World,Percent,1971-11-01,0.24
+319,World,Parts Per Million,1971-12-01,326.01
+320,World,Percent,1971-12-01,0.27
+321,World,Parts Per Million,1972-01-01,326.77
+322,World,Percent,1972-01-01,0.18
+323,World,Parts Per Million,1972-02-01,327.63
+324,World,Percent,1972-02-01,0.29
+325,World,Parts Per Million,1972-03-01,327.75
+326,World,Percent,1972-03-01,0.18
+327,World,Parts Per Million,1972-04-01,329.72
+328,World,Percent,1972-04-01,0.59
+329,World,Parts Per Million,1972-05-01,330.07
+330,World,Percent,1972-05-01,0.35
+331,World,Parts Per Million,1972-06-01,329.09
+332,World,Percent,1972-06-01,0.16
+333,World,Parts Per Million,1972-07-01,328.04
+334,World,Percent,1972-07-01,0.21
+335,World,Parts Per Million,1972-08-01,326.32
+336,World,Percent,1972-08-01,0.27
+337,World,Parts Per Million,1972-09-01,324.84
+338,World,Percent,1972-09-01,0.46
+339,World,Parts Per Million,1972-10-01,325.2
+340,World,Percent,1972-10-01,0.51
+341,World,Parts Per Million,1972-11-01,326.5
+342,World,Percent,1972-11-01,0.52
+343,World,Parts Per Million,1972-12-01,327.55
+344,World,Percent,1972-12-01,0.47
+345,World,Parts Per Million,1973-01-01,328.55
+346,World,Percent,1973-01-01,0.54
+347,World,Parts Per Million,1973-02-01,329.56
+348,World,Percent,1973-02-01,0.59
+349,World,Parts Per Million,1973-03-01,330.3
+350,World,Percent,1973-03-01,0.78
+351,World,Parts Per Million,1973-04-01,331.5
+352,World,Percent,1973-04-01,0.54
+353,World,Parts Per Million,1973-05-01,332.48
+354,World,Percent,1973-05-01,0.73
+355,World,Parts Per Million,1973-06-01,332.07
+356,World,Percent,1973-06-01,0.91
+357,World,Parts Per Million,1973-07-01,330.87
+358,World,Percent,1973-07-01,0.86
+359,World,Parts Per Million,1973-08-01,329.31
+360,World,Percent,1973-08-01,0.92
+361,World,Parts Per Million,1973-09-01,327.51
+362,World,Percent,1973-09-01,0.82
+363,World,Parts Per Million,1973-10-01,327.18
+364,World,Percent,1973-10-01,0.61
+365,World,Parts Per Million,1973-11-01,328.16
+366,World,Percent,1973-11-01,0.51
+367,World,Parts Per Million,1973-12-01,328.64
+368,World,Percent,1973-12-01,0.33
+369,World,Parts Per Million,1974-01-01,329.35
+370,World,Percent,1974-01-01,0.24
+371,World,Parts Per Million,1974-02-01,330.71
+372,World,Percent,1974-02-01,0.35
+373,World,Parts Per Million,1974-03-01,331.48
+374,World,Percent,1974-03-01,0.36
+375,World,Parts Per Million,1974-04-01,332.65
+376,World,Percent,1974-04-01,0.35
+377,World,Parts Per Million,1974-05-01,333.18
+378,World,Percent,1974-05-01,0.21
+379,World,Parts Per Million,1974-06-01,332.2
+380,World,Percent,1974-06-01,0.04
+381,World,Parts Per Million,1974-07-01,331.07
+382,World,Percent,1974-07-01,0.06
+383,World,Parts Per Million,1974-08-01,329.15
+384,World,Percent,1974-08-01,-0.05
+385,World,Parts Per Million,1974-09-01,327.33
+386,World,Percent,1974-09-01,-0.05
+387,World,Parts Per Million,1974-10-01,327.28
+388,World,Percent,1974-10-01,0.03
+389,World,Parts Per Million,1974-11-01,328.31
+390,World,Percent,1974-11-01,0.05
+391,World,Parts Per Million,1974-12-01,329.58
+392,World,Percent,1974-12-01,0.29
+393,World,Parts Per Million,1975-01-01,330.73
+394,World,Percent,1975-01-01,0.42
+395,World,Parts Per Million,1975-02-01,331.46
+396,World,Percent,1975-02-01,0.23
+397,World,Parts Per Million,1975-03-01,331.94
+398,World,Percent,1975-03-01,0.14
+399,World,Parts Per Million,1975-04-01,333.11
+400,World,Percent,1975-04-01,0.14
+401,World,Parts Per Million,1975-05-01,333.95
+402,World,Percent,1975-05-01,0.23
+403,World,Parts Per Million,1975-06-01,333.42
+404,World,Percent,1975-06-01,0.37
+405,World,Parts Per Million,1975-07-01,331.97
+406,World,Percent,1975-07-01,0.27
+407,World,Parts Per Million,1975-08-01,329.95
+408,World,Percent,1975-08-01,0.24
+409,World,Parts Per Million,1975-09-01,328.5
+410,World,Percent,1975-09-01,0.36
+411,World,Parts Per Million,1975-10-01,328.36
+412,World,Percent,1975-10-01,0.33
+413,World,Parts Per Million,1975-11-01,329.38
+414,World,Percent,1975-11-01,0.33
+415,World,Parts Per Million,1975-12-01,330.79
+416,World,Percent,1975-12-01,0.37
+417,World,Parts Per Million,1976-01-01,331.56
+418,World,Percent,1976-01-01,0.25
+419,World,Parts Per Million,1976-02-01,332.74
+420,World,Percent,1976-02-01,0.39
+421,World,Parts Per Million,1976-03-01,333.36
+422,World,Percent,1976-03-01,0.43
+423,World,Parts Per Million,1976-04-01,334.74
+424,World,Percent,1976-04-01,0.49
+425,World,Parts Per Million,1976-05-01,334.72
+426,World,Percent,1976-05-01,0.23
+427,World,Parts Per Million,1976-06-01,333.98
+428,World,Percent,1976-06-01,0.17
+429,World,Parts Per Million,1976-07-01,333.08
+430,World,Percent,1976-07-01,0.33
+431,World,Parts Per Million,1976-08-01,330.68
+432,World,Percent,1976-08-01,0.22
+433,World,Parts Per Million,1976-09-01,328.96
+434,World,Percent,1976-09-01,0.14
+435,World,Parts Per Million,1976-10-01,328.72
+436,World,Percent,1976-10-01,0.11
+437,World,Parts Per Million,1976-11-01,330.16
+438,World,Percent,1976-11-01,0.24
+439,World,Parts Per Million,1976-12-01,331.62
+440,World,Percent,1976-12-01,0.25
+441,World,Parts Per Million,1977-01-01,332.68
+442,World,Percent,1977-01-01,0.34
+443,World,Parts Per Million,1977-02-01,333.17
+444,World,Percent,1977-02-01,0.13
+445,World,Parts Per Million,1977-03-01,334.96
+446,World,Percent,1977-03-01,0.48
+447,World,Parts Per Million,1977-04-01,336.14
+448,World,Percent,1977-04-01,0.42
+449,World,Parts Per Million,1977-05-01,336.93
+450,World,Percent,1977-05-01,0.66
+451,World,Parts Per Million,1977-06-01,336.17
+452,World,Percent,1977-06-01,0.66
+453,World,Parts Per Million,1977-07-01,334.89
+454,World,Percent,1977-07-01,0.54
+455,World,Parts Per Million,1977-08-01,332.56
+456,World,Percent,1977-08-01,0.57
+457,World,Parts Per Million,1977-09-01,331.29
+458,World,Percent,1977-09-01,0.71
+459,World,Parts Per Million,1977-10-01,331.28
+460,World,Percent,1977-10-01,0.78
+461,World,Parts Per Million,1977-11-01,332.46
+462,World,Percent,1977-11-01,0.7
+463,World,Parts Per Million,1977-12-01,333.6
+464,World,Percent,1977-12-01,0.6
+465,World,Parts Per Million,1978-01-01,334.94
+466,World,Percent,1978-01-01,0.68
+467,World,Parts Per Million,1978-02-01,335.26
+468,World,Percent,1978-02-01,0.63
+469,World,Parts Per Million,1978-03-01,336.66
+470,World,Percent,1978-03-01,0.51
+471,World,Parts Per Million,1978-04-01,337.69
+472,World,Percent,1978-04-01,0.46
+473,World,Parts Per Million,1978-05-01,338.02
+474,World,Percent,1978-05-01,0.32
+475,World,Parts Per Million,1978-06-01,338.01
+476,World,Percent,1978-06-01,0.55
+477,World,Parts Per Million,1978-07-01,336.5
+478,World,Percent,1978-07-01,0.48
+479,World,Parts Per Million,1978-08-01,334.42
+480,World,Percent,1978-08-01,0.56
+481,World,Parts Per Million,1978-09-01,332.36
+482,World,Percent,1978-09-01,0.32
+483,World,Parts Per Million,1978-10-01,332.45
+484,World,Percent,1978-10-01,0.35
+485,World,Parts Per Million,1978-11-01,333.76
+486,World,Percent,1978-11-01,0.39
+487,World,Parts Per Million,1978-12-01,334.91
+488,World,Percent,1978-12-01,0.39
+489,World,Parts Per Million,1979-01-01,336.14
+490,World,Percent,1979-01-01,0.36
+491,World,Parts Per Million,1979-02-01,336.69
+492,World,Percent,1979-02-01,0.43
+493,World,Parts Per Million,1979-03-01,338.27
+494,World,Percent,1979-03-01,0.48
+495,World,Parts Per Million,1979-04-01,338.82
+496,World,Percent,1979-04-01,0.33
+497,World,Parts Per Million,1979-05-01,339.24
+498,World,Percent,1979-05-01,0.36
+499,World,Parts Per Million,1979-06-01,339.26
+500,World,Percent,1979-06-01,0.37
+501,World,Parts Per Million,1979-07-01,337.54
+502,World,Percent,1979-07-01,0.31
+503,World,Parts Per Million,1979-08-01,335.72
+504,World,Percent,1979-08-01,0.39
+505,World,Parts Per Million,1979-09-01,333.97
+506,World,Percent,1979-09-01,0.48
+507,World,Parts Per Million,1979-10-01,334.24
+508,World,Percent,1979-10-01,0.54
+509,World,Parts Per Million,1979-11-01,335.32
+510,World,Percent,1979-11-01,0.47
+511,World,Parts Per Million,1979-12-01,336.81
+512,World,Percent,1979-12-01,0.57
+513,World,Parts Per Million,1980-01-01,337.9
+514,World,Percent,1980-01-01,0.52
+515,World,Parts Per Million,1980-02-01,338.34
+516,World,Percent,1980-02-01,0.49
+517,World,Parts Per Million,1980-03-01,340.07
+518,World,Percent,1980-03-01,0.53
+519,World,Parts Per Million,1980-04-01,340.93
+520,World,Percent,1980-04-01,0.62
+521,World,Parts Per Million,1980-05-01,341.45
+522,World,Percent,1980-05-01,0.65
+523,World,Parts Per Million,1980-06-01,341.36
+524,World,Percent,1980-06-01,0.62
+525,World,Parts Per Million,1980-07-01,339.45
+526,World,Percent,1980-07-01,0.57
+527,World,Parts Per Million,1980-08-01,337.67
+528,World,Percent,1980-08-01,0.58
+529,World,Parts Per Million,1980-09-01,336.25
+530,World,Percent,1980-09-01,0.68
+531,World,Parts Per Million,1980-10-01,336.14
+532,World,Percent,1980-10-01,0.57
+533,World,Parts Per Million,1980-11-01,337.3
+534,World,Percent,1980-11-01,0.59
+535,World,Parts Per Million,1980-12-01,338.29
+536,World,Percent,1980-12-01,0.44
+537,World,Parts Per Million,1981-01-01,339.29
+538,World,Percent,1981-01-01,0.41
+539,World,Parts Per Million,1981-02-01,340.55
+540,World,Percent,1981-02-01,0.65
+541,World,Parts Per Million,1981-03-01,341.63
+542,World,Percent,1981-03-01,0.46
+543,World,Parts Per Million,1981-04-01,342.6
+544,World,Percent,1981-04-01,0.49
+545,World,Parts Per Million,1981-05-01,343.04
+546,World,Percent,1981-05-01,0.47
+547,World,Parts Per Million,1981-06-01,342.54
+548,World,Percent,1981-06-01,0.35
+549,World,Parts Per Million,1981-07-01,340.82
+550,World,Percent,1981-07-01,0.4
+551,World,Parts Per Million,1981-08-01,338.48
+552,World,Percent,1981-08-01,0.24
+553,World,Parts Per Million,1981-09-01,336.95
+554,World,Percent,1981-09-01,0.21
+555,World,Parts Per Million,1981-10-01,337.05
+556,World,Percent,1981-10-01,0.27
+557,World,Parts Per Million,1981-11-01,338.58
+558,World,Percent,1981-11-01,0.38
+559,World,Parts Per Million,1981-12-01,339.91
+560,World,Percent,1981-12-01,0.48
+561,World,Parts Per Million,1982-01-01,340.93
+562,World,Percent,1982-01-01,0.48
+563,World,Parts Per Million,1982-02-01,341.76
+564,World,Percent,1982-02-01,0.36
+565,World,Parts Per Million,1982-03-01,342.77
+566,World,Percent,1982-03-01,0.33
+567,World,Parts Per Million,1982-04-01,343.96
+568,World,Percent,1982-04-01,0.4
+569,World,Parts Per Million,1982-05-01,344.77
+570,World,Percent,1982-05-01,0.5
+571,World,Parts Per Million,1982-06-01,343.88
+572,World,Percent,1982-06-01,0.39
+573,World,Parts Per Million,1982-07-01,342.42
+574,World,Percent,1982-07-01,0.47
+575,World,Parts Per Million,1982-08-01,340.24
+576,World,Percent,1982-08-01,0.52
+577,World,Parts Per Million,1982-09-01,338.38
+578,World,Percent,1982-09-01,0.42
+579,World,Parts Per Million,1982-10-01,338.41
+580,World,Percent,1982-10-01,0.4
+581,World,Parts Per Million,1982-11-01,339.44
+582,World,Percent,1982-11-01,0.25
+583,World,Parts Per Million,1982-12-01,340.78
+584,World,Percent,1982-12-01,0.26
+585,World,Parts Per Million,1983-01-01,341.57
+586,World,Percent,1983-01-01,0.19
+587,World,Parts Per Million,1983-02-01,342.78
+588,World,Percent,1983-02-01,0.3
+589,World,Parts Per Million,1983-03-01,343.37
+590,World,Percent,1983-03-01,0.18
+591,World,Parts Per Million,1983-04-01,345.4
+592,World,Percent,1983-04-01,0.42
+593,World,Parts Per Million,1983-05-01,346.14
+594,World,Percent,1983-05-01,0.4
+595,World,Parts Per Million,1983-06-01,345.76
+596,World,Percent,1983-06-01,0.55
+597,World,Parts Per Million,1983-07-01,344.32
+598,World,Percent,1983-07-01,0.55
+599,World,Parts Per Million,1983-08-01,342.51
+600,World,Percent,1983-08-01,0.67
+601,World,Parts Per Million,1983-09-01,340.46
+602,World,Percent,1983-09-01,0.61
+603,World,Parts Per Million,1983-10-01,340.53
+604,World,Percent,1983-10-01,0.63
+605,World,Parts Per Million,1983-11-01,341.79
+606,World,Percent,1983-11-01,0.69
+607,World,Parts Per Million,1983-12-01,343.2
+608,World,Percent,1983-12-01,0.71
+609,World,Parts Per Million,1984-01-01,344.21
+610,World,Percent,1984-01-01,0.77
+611,World,Parts Per Million,1984-02-01,344.92
+612,World,Percent,1984-02-01,0.62
+613,World,Parts Per Million,1984-03-01,345.68
+614,World,Percent,1984-03-01,0.67
+615,World,Parts Per Million,1984-04-01,347.37
+616,World,Percent,1984-04-01,0.57
+617,World,Parts Per Million,1984-05-01,347.78
+618,World,Percent,1984-05-01,0.47
+619,World,Parts Per Million,1984-06-01,347.16
+620,World,Percent,1984-06-01,0.4
+621,World,Parts Per Million,1984-07-01,345.79
+622,World,Percent,1984-07-01,0.43
+623,World,Parts Per Million,1984-08-01,343.74
+624,World,Percent,1984-08-01,0.36
+625,World,Parts Per Million,1984-09-01,341.59
+626,World,Percent,1984-09-01,0.33
+627,World,Parts Per Million,1984-10-01,341.86
+628,World,Percent,1984-10-01,0.39
+629,World,Parts Per Million,1984-11-01,343.31
+630,World,Percent,1984-11-01,0.44
+631,World,Parts Per Million,1984-12-01,345.0
+632,World,Percent,1984-12-01,0.52
+633,World,Parts Per Million,1985-01-01,345.48
+634,World,Percent,1985-01-01,0.37
+635,World,Parts Per Million,1985-02-01,346.41
+636,World,Percent,1985-02-01,0.43
+637,World,Parts Per Million,1985-03-01,347.91
+638,World,Percent,1985-03-01,0.65
+639,World,Parts Per Million,1985-04-01,348.66
+640,World,Percent,1985-04-01,0.37
+641,World,Parts Per Million,1985-05-01,349.28
+642,World,Percent,1985-05-01,0.43
+643,World,Parts Per Million,1985-06-01,348.65
+644,World,Percent,1985-06-01,0.43
+645,World,Parts Per Million,1985-07-01,346.9
+646,World,Percent,1985-07-01,0.32
+647,World,Parts Per Million,1985-08-01,345.26
+648,World,Percent,1985-08-01,0.44
+649,World,Parts Per Million,1985-09-01,343.47
+650,World,Percent,1985-09-01,0.55
+651,World,Parts Per Million,1985-10-01,343.35
+652,World,Percent,1985-10-01,0.44
+653,World,Parts Per Million,1985-11-01,344.73
+654,World,Percent,1985-11-01,0.41
+655,World,Parts Per Million,1985-12-01,346.12
+656,World,Percent,1985-12-01,0.32
+657,World,Parts Per Million,1986-01-01,346.78
+658,World,Percent,1986-01-01,0.38
+659,World,Parts Per Million,1986-02-01,347.48
+660,World,Percent,1986-02-01,0.31
+661,World,Parts Per Million,1986-03-01,348.25
+662,World,Percent,1986-03-01,0.1
+663,World,Parts Per Million,1986-04-01,349.86
+664,World,Percent,1986-04-01,0.34
+665,World,Parts Per Million,1986-05-01,350.52
+666,World,Percent,1986-05-01,0.36
+667,World,Parts Per Million,1986-06-01,349.98
+668,World,Percent,1986-06-01,0.38
+669,World,Parts Per Million,1986-07-01,348.25
+670,World,Percent,1986-07-01,0.39
+671,World,Parts Per Million,1986-08-01,346.17
+672,World,Percent,1986-08-01,0.26
+673,World,Parts Per Million,1986-09-01,345.48
+674,World,Percent,1986-09-01,0.59
+675,World,Parts Per Million,1986-10-01,344.82
+676,World,Percent,1986-10-01,0.43
+677,World,Parts Per Million,1986-11-01,346.22
+678,World,Percent,1986-11-01,0.43
+679,World,Parts Per Million,1986-12-01,347.49
+680,World,Percent,1986-12-01,0.4
+681,World,Parts Per Million,1987-01-01,348.73
+682,World,Percent,1987-01-01,0.56
+683,World,Parts Per Million,1987-02-01,348.92
+684,World,Percent,1987-02-01,0.41
+685,World,Parts Per Million,1987-03-01,349.81
+686,World,Percent,1987-03-01,0.45
+687,World,Parts Per Million,1987-04-01,351.4
+688,World,Percent,1987-04-01,0.44
+689,World,Parts Per Million,1987-05-01,352.15
+690,World,Percent,1987-05-01,0.47
+691,World,Parts Per Million,1987-06-01,351.58
+692,World,Percent,1987-06-01,0.46
+693,World,Parts Per Million,1987-07-01,350.21
+694,World,Percent,1987-07-01,0.56
+695,World,Parts Per Million,1987-08-01,348.2
+696,World,Percent,1987-08-01,0.59
+697,World,Parts Per Million,1987-09-01,346.66
+698,World,Percent,1987-09-01,0.34
+699,World,Parts Per Million,1987-10-01,346.72
+700,World,Percent,1987-10-01,0.55
+701,World,Parts Per Million,1987-11-01,348.08
+702,World,Percent,1987-11-01,0.54
+703,World,Parts Per Million,1987-12-01,349.28
+704,World,Percent,1987-12-01,0.52
+705,World,Parts Per Million,1988-01-01,350.51
+706,World,Percent,1988-01-01,0.51
+707,World,Parts Per Million,1988-02-01,351.7
+708,World,Percent,1988-02-01,0.8
+709,World,Parts Per Million,1988-03-01,352.5
+710,World,Percent,1988-03-01,0.77
+711,World,Parts Per Million,1988-04-01,353.67
+712,World,Percent,1988-04-01,0.65
+713,World,Parts Per Million,1988-05-01,354.35
+714,World,Percent,1988-05-01,0.62
+715,World,Parts Per Million,1988-06-01,353.88
+716,World,Percent,1988-06-01,0.65
+717,World,Parts Per Million,1988-07-01,352.8
+718,World,Percent,1988-07-01,0.74
+719,World,Parts Per Million,1988-08-01,350.49
+720,World,Percent,1988-08-01,0.66
+721,World,Parts Per Million,1988-09-01,348.97
+722,World,Percent,1988-09-01,0.67
+723,World,Parts Per Million,1988-10-01,349.37
+724,World,Percent,1988-10-01,0.76
+725,World,Parts Per Million,1988-11-01,350.42
+726,World,Percent,1988-11-01,0.67
+727,World,Parts Per Million,1988-12-01,351.62
+728,World,Percent,1988-12-01,0.67
+729,World,Parts Per Million,1989-01-01,353.07
+730,World,Percent,1989-01-01,0.73
+731,World,Parts Per Million,1989-02-01,353.43
+732,World,Percent,1989-02-01,0.49
+733,World,Parts Per Million,1989-03-01,354.08
+734,World,Percent,1989-03-01,0.45
+735,World,Parts Per Million,1989-04-01,355.72
+736,World,Percent,1989-04-01,0.58
+737,World,Parts Per Million,1989-05-01,355.95
+738,World,Percent,1989-05-01,0.45
+739,World,Parts Per Million,1989-06-01,355.44
+740,World,Percent,1989-06-01,0.44
+741,World,Parts Per Million,1989-07-01,354.05
+742,World,Percent,1989-07-01,0.35
+743,World,Parts Per Million,1989-08-01,351.84
+744,World,Percent,1989-08-01,0.39
+745,World,Parts Per Million,1989-09-01,350.09
+746,World,Percent,1989-09-01,0.32
+747,World,Parts Per Million,1989-10-01,350.33
+748,World,Percent,1989-10-01,0.27
+749,World,Parts Per Million,1989-11-01,351.55
+750,World,Percent,1989-11-01,0.32
+751,World,Parts Per Million,1989-12-01,352.91
+752,World,Percent,1989-12-01,0.37
+753,World,Parts Per Million,1990-01-01,353.86
+754,World,Percent,1990-01-01,0.22
+755,World,Parts Per Million,1990-02-01,355.1
+756,World,Percent,1990-02-01,0.47
+757,World,Parts Per Million,1990-03-01,355.75
+758,World,Percent,1990-03-01,0.47
+759,World,Parts Per Million,1990-04-01,356.38
+760,World,Percent,1990-04-01,0.19
+761,World,Parts Per Million,1990-05-01,357.38
+762,World,Percent,1990-05-01,0.4
+763,World,Parts Per Million,1990-06-01,356.39
+764,World,Percent,1990-06-01,0.27
+765,World,Parts Per Million,1990-07-01,354.89
+766,World,Percent,1990-07-01,0.24
+767,World,Parts Per Million,1990-08-01,353.06
+768,World,Percent,1990-08-01,0.35
+769,World,Parts Per Million,1990-09-01,351.38
+770,World,Percent,1990-09-01,0.37
+771,World,Parts Per Million,1990-10-01,351.69
+772,World,Percent,1990-10-01,0.39
+773,World,Parts Per Million,1990-11-01,353.14
+774,World,Percent,1990-11-01,0.45
+775,World,Parts Per Million,1990-12-01,354.41
+776,World,Percent,1990-12-01,0.43
+777,World,Parts Per Million,1991-01-01,354.93
+778,World,Percent,1991-01-01,0.3
+779,World,Parts Per Million,1991-02-01,355.82
+780,World,Percent,1991-02-01,0.2
+781,World,Parts Per Million,1991-03-01,357.33
+782,World,Percent,1991-03-01,0.44
+783,World,Parts Per Million,1991-04-01,358.77
+784,World,Percent,1991-04-01,0.67
+785,World,Parts Per Million,1991-05-01,359.23
+786,World,Percent,1991-05-01,0.52
+787,World,Parts Per Million,1991-06-01,358.23
+788,World,Percent,1991-06-01,0.52
+789,World,Parts Per Million,1991-07-01,356.3
+790,World,Percent,1991-07-01,0.4
+791,World,Parts Per Million,1991-08-01,353.97
+792,World,Percent,1991-08-01,0.26
+793,World,Parts Per Million,1991-09-01,352.34
+794,World,Percent,1991-09-01,0.27
+795,World,Parts Per Million,1991-10-01,352.43
+796,World,Percent,1991-10-01,0.21
+797,World,Parts Per Million,1991-11-01,353.89
+798,World,Percent,1991-11-01,0.21
+799,World,Parts Per Million,1991-12-01,355.21
+800,World,Percent,1991-12-01,0.23
+801,World,Parts Per Million,1992-01-01,356.34
+802,World,Percent,1992-01-01,0.4
+803,World,Parts Per Million,1992-02-01,357.21
+804,World,Percent,1992-02-01,0.39
+805,World,Parts Per Million,1992-03-01,357.97
+806,World,Percent,1992-03-01,0.18
+807,World,Parts Per Million,1992-04-01,359.22
+808,World,Percent,1992-04-01,0.13
+809,World,Parts Per Million,1992-05-01,359.71
+810,World,Percent,1992-05-01,0.13
+811,World,Parts Per Million,1992-06-01,359.44
+812,World,Percent,1992-06-01,0.34
+813,World,Parts Per Million,1992-07-01,357.15
+814,World,Percent,1992-07-01,0.24
+815,World,Parts Per Million,1992-08-01,354.99
+816,World,Percent,1992-08-01,0.29
+817,World,Parts Per Million,1992-09-01,353.01
+818,World,Percent,1992-09-01,0.19
+819,World,Parts Per Million,1992-10-01,353.41
+820,World,Percent,1992-10-01,0.28
+821,World,Parts Per Million,1992-11-01,354.42
+822,World,Percent,1992-11-01,0.15
+823,World,Parts Per Million,1992-12-01,355.68
+824,World,Percent,1992-12-01,0.13
+825,World,Parts Per Million,1993-01-01,357.1
+826,World,Percent,1993-01-01,0.21
+827,World,Parts Per Million,1993-02-01,357.42
+828,World,Percent,1993-02-01,0.06
+829,World,Parts Per Million,1993-03-01,358.59
+830,World,Percent,1993-03-01,0.17
+831,World,Parts Per Million,1993-04-01,359.39
+832,World,Percent,1993-04-01,0.05
+833,World,Parts Per Million,1993-05-01,360.3
+834,World,Percent,1993-05-01,0.16
+835,World,Parts Per Million,1993-06-01,359.64
+836,World,Percent,1993-06-01,0.06
+837,World,Parts Per Million,1993-07-01,357.45
+838,World,Percent,1993-07-01,0.08
+839,World,Parts Per Million,1993-08-01,355.76
+840,World,Percent,1993-08-01,0.22
+841,World,Parts Per Million,1993-09-01,354.14
+842,World,Percent,1993-09-01,0.32
+843,World,Parts Per Million,1993-10-01,354.23
+844,World,Percent,1993-10-01,0.23
+845,World,Parts Per Million,1993-11-01,355.53
+846,World,Percent,1993-11-01,0.31
+847,World,Parts Per Million,1993-12-01,357.03
+848,World,Percent,1993-12-01,0.38
+849,World,Parts Per Million,1994-01-01,358.36
+850,World,Percent,1994-01-01,0.35
+851,World,Parts Per Million,1994-02-01,359.04
+852,World,Percent,1994-02-01,0.45
+853,World,Parts Per Million,1994-03-01,360.11
+854,World,Percent,1994-03-01,0.42
+855,World,Parts Per Million,1994-04-01,361.36
+856,World,Percent,1994-04-01,0.55
+857,World,Parts Per Million,1994-05-01,361.78
+858,World,Percent,1994-05-01,0.41
+859,World,Parts Per Million,1994-06-01,360.94
+860,World,Percent,1994-06-01,0.36
+861,World,Parts Per Million,1994-07-01,359.51
+862,World,Percent,1994-07-01,0.58
+863,World,Parts Per Million,1994-08-01,357.59
+864,World,Percent,1994-08-01,0.51
+865,World,Parts Per Million,1994-09-01,355.86
+866,World,Percent,1994-09-01,0.49
+867,World,Parts Per Million,1994-10-01,356.21
+868,World,Percent,1994-10-01,0.56
+869,World,Parts Per Million,1994-11-01,357.65
+870,World,Percent,1994-11-01,0.6
+871,World,Parts Per Million,1994-12-01,359.1
+872,World,Percent,1994-12-01,0.58
+873,World,Parts Per Million,1995-01-01,360.04
+874,World,Percent,1995-01-01,0.47
+875,World,Parts Per Million,1995-02-01,361.0
+876,World,Percent,1995-02-01,0.55
+877,World,Parts Per Million,1995-03-01,361.98
+878,World,Percent,1995-03-01,0.52
+879,World,Parts Per Million,1995-04-01,363.44
+880,World,Percent,1995-04-01,0.58
+881,World,Parts Per Million,1995-05-01,363.83
+882,World,Percent,1995-05-01,0.57
+883,World,Parts Per Million,1995-06-01,363.33
+884,World,Percent,1995-06-01,0.66
+885,World,Parts Per Million,1995-07-01,361.78
+886,World,Percent,1995-07-01,0.63
+887,World,Parts Per Million,1995-08-01,359.33
+888,World,Percent,1995-08-01,0.49
+889,World,Parts Per Million,1995-09-01,358.32
+890,World,Percent,1995-09-01,0.69
+891,World,Parts Per Million,1995-10-01,358.14
+892,World,Percent,1995-10-01,0.54
+893,World,Parts Per Million,1995-11-01,359.61
+894,World,Percent,1995-11-01,0.55
+895,World,Parts Per Million,1995-12-01,360.82
+896,World,Percent,1995-12-01,0.48
+897,World,Parts Per Million,1996-01-01,362.2
+898,World,Percent,1996-01-01,0.6
+899,World,Parts Per Million,1996-02-01,363.36
+900,World,Percent,1996-02-01,0.65
+901,World,Parts Per Million,1996-03-01,364.28
+902,World,Percent,1996-03-01,0.64
+903,World,Parts Per Million,1996-04-01,364.69
+904,World,Percent,1996-04-01,0.34
+905,World,Parts Per Million,1996-05-01,365.25
+906,World,Percent,1996-05-01,0.39
+907,World,Parts Per Million,1996-06-01,365.06
+908,World,Percent,1996-06-01,0.48
+909,World,Parts Per Million,1996-07-01,363.69
+910,World,Percent,1996-07-01,0.53
+911,World,Parts Per Million,1996-08-01,361.55
+912,World,Percent,1996-08-01,0.62
+913,World,Parts Per Million,1996-09-01,359.69
+914,World,Percent,1996-09-01,0.38
+915,World,Parts Per Million,1996-10-01,359.72
+916,World,Percent,1996-10-01,0.44
+917,World,Parts Per Million,1996-11-01,361.04
+918,World,Percent,1996-11-01,0.4
+919,World,Parts Per Million,1996-12-01,362.39
+920,World,Percent,1996-12-01,0.44
+921,World,Parts Per Million,1997-01-01,363.24
+922,World,Percent,1997-01-01,0.29
+923,World,Parts Per Million,1997-02-01,364.21
+924,World,Percent,1997-02-01,0.23
+925,World,Parts Per Million,1997-03-01,364.65
+926,World,Percent,1997-03-01,0.1
+927,World,Parts Per Million,1997-04-01,366.49
+928,World,Percent,1997-04-01,0.49
+929,World,Parts Per Million,1997-05-01,366.77
+930,World,Percent,1997-05-01,0.42
+931,World,Parts Per Million,1997-06-01,365.73
+932,World,Percent,1997-06-01,0.18
+933,World,Parts Per Million,1997-07-01,364.46
+934,World,Percent,1997-07-01,0.21
+935,World,Parts Per Million,1997-08-01,362.4
+936,World,Percent,1997-08-01,0.24
+937,World,Parts Per Million,1997-09-01,360.44
+938,World,Percent,1997-09-01,0.21
+939,World,Parts Per Million,1997-10-01,360.98
+940,World,Percent,1997-10-01,0.35
+941,World,Parts Per Million,1997-11-01,362.65
+942,World,Percent,1997-11-01,0.45
+943,World,Parts Per Million,1997-12-01,364.51
+944,World,Percent,1997-12-01,0.59
+945,World,Parts Per Million,1998-01-01,365.39
+946,World,Percent,1998-01-01,0.59
+947,World,Parts Per Million,1998-02-01,366.1
+948,World,Percent,1998-02-01,0.52
+949,World,Parts Per Million,1998-03-01,367.36
+950,World,Percent,1998-03-01,0.74
+951,World,Parts Per Million,1998-04-01,368.79
+952,World,Percent,1998-04-01,0.63
+953,World,Parts Per Million,1998-05-01,369.56
+954,World,Percent,1998-05-01,0.76
+955,World,Parts Per Million,1998-06-01,369.13
+956,World,Percent,1998-06-01,0.93
+957,World,Parts Per Million,1998-07-01,367.98
+958,World,Percent,1998-07-01,0.97
+959,World,Parts Per Million,1998-08-01,366.1
+960,World,Percent,1998-08-01,1.02
+961,World,Parts Per Million,1998-09-01,364.16
+962,World,Percent,1998-09-01,1.03
+963,World,Parts Per Million,1998-10-01,364.54
+964,World,Percent,1998-10-01,0.99
+965,World,Parts Per Million,1998-11-01,365.67
+966,World,Percent,1998-11-01,0.83
+967,World,Parts Per Million,1998-12-01,367.3
+968,World,Percent,1998-12-01,0.77
+969,World,Parts Per Million,1999-01-01,368.35
+970,World,Percent,1999-01-01,0.81
+971,World,Parts Per Million,1999-02-01,369.28
+972,World,Percent,1999-02-01,0.87
+973,World,Parts Per Million,1999-03-01,369.84
+974,World,Percent,1999-03-01,0.68
+975,World,Parts Per Million,1999-04-01,371.15
+976,World,Percent,1999-04-01,0.64
+977,World,Parts Per Million,1999-05-01,371.12
+978,World,Percent,1999-05-01,0.42
+979,World,Parts Per Million,1999-06-01,370.46
+980,World,Percent,1999-06-01,0.36
+981,World,Parts Per Million,1999-07-01,369.61
+982,World,Percent,1999-07-01,0.44
+983,World,Parts Per Million,1999-08-01,367.06
+984,World,Percent,1999-08-01,0.26
+985,World,Parts Per Million,1999-09-01,364.95
+986,World,Percent,1999-09-01,0.22
+987,World,Parts Per Million,1999-10-01,365.52
+988,World,Percent,1999-10-01,0.27
+989,World,Parts Per Million,1999-11-01,366.88
+990,World,Percent,1999-11-01,0.33
+991,World,Parts Per Million,1999-12-01,368.26
+992,World,Percent,1999-12-01,0.26
+993,World,Parts Per Million,2000-01-01,369.45
+994,World,Percent,2000-01-01,0.3
+995,World,Parts Per Million,2000-02-01,369.71
+996,World,Percent,2000-02-01,0.12
+997,World,Parts Per Million,2000-03-01,370.75
+998,World,Percent,2000-03-01,0.25
+999,World,Parts Per Million,2000-04-01,371.98
+1000,World,Percent,2000-04-01,0.22
+1001,World,Parts Per Million,2000-05-01,371.75
+1002,World,Percent,2000-05-01,0.17
+1003,World,Parts Per Million,2000-06-01,371.87
+1004,World,Percent,2000-06-01,0.38
+1005,World,Parts Per Million,2000-07-01,370.02
+1006,World,Percent,2000-07-01,0.11
+1007,World,Parts Per Million,2000-08-01,368.27
+1008,World,Percent,2000-08-01,0.33
+1009,World,Parts Per Million,2000-09-01,367.15
+1010,World,Percent,2000-09-01,0.6
+1011,World,Parts Per Million,2000-10-01,367.18
+1012,World,Percent,2000-10-01,0.45
+1013,World,Parts Per Million,2000-11-01,368.53
+1014,World,Percent,2000-11-01,0.45
+1015,World,Parts Per Million,2000-12-01,369.83
+1016,World,Percent,2000-12-01,0.43
+1017,World,Parts Per Million,2001-01-01,370.76
+1018,World,Percent,2001-01-01,0.35
+1019,World,Parts Per Million,2001-02-01,371.69
+1020,World,Percent,2001-02-01,0.54
+1021,World,Parts Per Million,2001-03-01,372.63
+1022,World,Percent,2001-03-01,0.51
+1023,World,Parts Per Million,2001-04-01,373.55
+1024,World,Percent,2001-04-01,0.42
+1025,World,Parts Per Million,2001-05-01,374.03
+1026,World,Percent,2001-05-01,0.61
+1027,World,Parts Per Million,2001-06-01,373.4
+1028,World,Percent,2001-06-01,0.41
+1029,World,Parts Per Million,2001-07-01,371.68
+1030,World,Percent,2001-07-01,0.45
+1031,World,Parts Per Million,2001-08-01,369.78
+1032,World,Percent,2001-08-01,0.41
+1033,World,Parts Per Million,2001-09-01,368.34
+1034,World,Percent,2001-09-01,0.32
+1035,World,Parts Per Million,2001-10-01,368.61
+1036,World,Percent,2001-10-01,0.39
+1037,World,Parts Per Million,2001-11-01,369.94
+1038,World,Percent,2001-11-01,0.38
+1039,World,Parts Per Million,2001-12-01,371.42
+1040,World,Percent,2001-12-01,0.43
+1041,World,Parts Per Million,2002-01-01,372.7
+1042,World,Percent,2002-01-01,0.52
+1043,World,Parts Per Million,2002-02-01,373.37
+1044,World,Percent,2002-02-01,0.45
+1045,World,Parts Per Million,2002-03-01,374.3
+1046,World,Percent,2002-03-01,0.45
+1047,World,Parts Per Million,2002-04-01,375.19
+1048,World,Percent,2002-04-01,0.44
+1049,World,Parts Per Million,2002-05-01,375.93
+1050,World,Percent,2002-05-01,0.51
+1051,World,Parts Per Million,2002-06-01,375.69
+1052,World,Percent,2002-06-01,0.61
+1053,World,Parts Per Million,2002-07-01,374.16
+1054,World,Percent,2002-07-01,0.67
+1055,World,Parts Per Million,2002-08-01,372.03
+1056,World,Percent,2002-08-01,0.61
+1057,World,Parts Per Million,2002-09-01,370.92
+1058,World,Percent,2002-09-01,0.7
+1059,World,Parts Per Million,2002-10-01,370.73
+1060,World,Percent,2002-10-01,0.58
+1061,World,Parts Per Million,2002-11-01,372.43
+1062,World,Percent,2002-11-01,0.67
+1063,World,Parts Per Million,2002-12-01,373.98
+1064,World,Percent,2002-12-01,0.69
+1065,World,Parts Per Million,2003-01-01,375.07
+1066,World,Percent,2003-01-01,0.64
+1067,World,Parts Per Million,2003-02-01,375.82
+1068,World,Percent,2003-02-01,0.66
+1069,World,Parts Per Million,2003-03-01,376.64
+1070,World,Percent,2003-03-01,0.63
+1071,World,Parts Per Million,2003-04-01,377.92
+1072,World,Percent,2003-04-01,0.73
+1073,World,Parts Per Million,2003-05-01,378.78
+1074,World,Percent,2003-05-01,0.76
+1075,World,Parts Per Million,2003-06-01,378.46
+1076,World,Percent,2003-06-01,0.74
+1077,World,Parts Per Million,2003-07-01,376.88
+1078,World,Percent,2003-07-01,0.73
+1079,World,Parts Per Million,2003-08-01,374.57
+1080,World,Percent,2003-08-01,0.68
+1081,World,Parts Per Million,2003-09-01,373.34
+1082,World,Percent,2003-09-01,0.65
+1083,World,Parts Per Million,2003-10-01,373.31
+1084,World,Percent,2003-10-01,0.7
+1085,World,Parts Per Million,2003-11-01,374.84
+1086,World,Percent,2003-11-01,0.65
+1087,World,Parts Per Million,2003-12-01,376.17
+1088,World,Percent,2003-12-01,0.59
+1089,World,Parts Per Million,2004-01-01,377.17
+1090,World,Percent,2004-01-01,0.56
+1091,World,Parts Per Million,2004-02-01,378.05
+1092,World,Percent,2004-02-01,0.59
+1093,World,Parts Per Million,2004-03-01,379.06
+1094,World,Percent,2004-03-01,0.64
+1095,World,Parts Per Million,2004-04-01,380.54
+1096,World,Percent,2004-04-01,0.69
+1097,World,Parts Per Million,2004-05-01,380.8
+1098,World,Percent,2004-05-01,0.53
+1099,World,Parts Per Million,2004-06-01,379.87
+1100,World,Percent,2004-06-01,0.37
+1101,World,Parts Per Million,2004-07-01,377.65
+1102,World,Percent,2004-07-01,0.2
+1103,World,Parts Per Million,2004-08-01,376.17
+1104,World,Percent,2004-08-01,0.43
+1105,World,Parts Per Million,2004-09-01,374.43
+1106,World,Percent,2004-09-01,0.29
+1107,World,Parts Per Million,2004-10-01,374.63
+1108,World,Percent,2004-10-01,0.35
+1109,World,Parts Per Million,2004-11-01,376.33
+1110,World,Percent,2004-11-01,0.4
+1111,World,Parts Per Million,2004-12-01,377.68
+1112,World,Percent,2004-12-01,0.4
+1113,World,Parts Per Million,2005-01-01,378.63
+1114,World,Percent,2005-01-01,0.39
+1115,World,Parts Per Million,2005-02-01,379.91
+1116,World,Percent,2005-02-01,0.49
+1117,World,Parts Per Million,2005-03-01,380.95
+1118,World,Percent,2005-03-01,0.5
+1119,World,Parts Per Million,2005-04-01,382.48
+1120,World,Percent,2005-04-01,0.51
+1121,World,Parts Per Million,2005-05-01,382.64
+1122,World,Percent,2005-05-01,0.48
+1123,World,Parts Per Million,2005-06-01,382.4
+1124,World,Percent,2005-06-01,0.67
+1125,World,Parts Per Million,2005-07-01,380.93
+1126,World,Percent,2005-07-01,0.87
+1127,World,Parts Per Million,2005-08-01,378.93
+1128,World,Percent,2005-08-01,0.73
+1129,World,Parts Per Million,2005-09-01,376.89
+1130,World,Percent,2005-09-01,0.66
+1131,World,Parts Per Million,2005-10-01,377.19
+1132,World,Percent,2005-10-01,0.68
+1133,World,Parts Per Million,2005-11-01,378.54
+1134,World,Percent,2005-11-01,0.59
+1135,World,Parts Per Million,2005-12-01,380.31
+1136,World,Percent,2005-12-01,0.7
+1137,World,Parts Per Million,2006-01-01,381.58
+1138,World,Percent,2006-01-01,0.78
+1139,World,Parts Per Million,2006-02-01,382.4
+1140,World,Percent,2006-02-01,0.66
+1141,World,Parts Per Million,2006-03-01,382.86
+1142,World,Percent,2006-03-01,0.5
+1143,World,Parts Per Million,2006-04-01,384.8
+1144,World,Percent,2006-04-01,0.61
+1145,World,Parts Per Million,2006-05-01,385.22
+1146,World,Percent,2006-05-01,0.67
+1147,World,Parts Per Million,2006-06-01,384.24
+1148,World,Percent,2006-06-01,0.48
+1149,World,Parts Per Million,2006-07-01,382.65
+1150,World,Percent,2006-07-01,0.45
+1151,World,Parts Per Million,2006-08-01,380.6
+1152,World,Percent,2006-08-01,0.44
+1153,World,Parts Per Million,2006-09-01,379.04
+1154,World,Percent,2006-09-01,0.57
+1155,World,Parts Per Million,2006-10-01,379.33
+1156,World,Percent,2006-10-01,0.57
+1157,World,Parts Per Million,2006-11-01,380.35
+1158,World,Percent,2006-11-01,0.48
+1159,World,Parts Per Million,2006-12-01,382.02
+1160,World,Percent,2006-12-01,0.45
+1161,World,Parts Per Million,2007-01-01,383.1
+1162,World,Percent,2007-01-01,0.4
+1163,World,Parts Per Million,2007-02-01,384.12
+1164,World,Percent,2007-02-01,0.45
+1165,World,Parts Per Million,2007-03-01,384.81
+1166,World,Percent,2007-03-01,0.51
+1167,World,Parts Per Million,2007-04-01,386.73
+1168,World,Percent,2007-04-01,0.5
+1169,World,Parts Per Million,2007-05-01,386.78
+1170,World,Percent,2007-05-01,0.4
+1171,World,Parts Per Million,2007-06-01,386.33
+1172,World,Percent,2007-06-01,0.54
+1173,World,Parts Per Million,2007-07-01,384.73
+1174,World,Percent,2007-07-01,0.54
+1175,World,Parts Per Million,2007-08-01,382.24
+1176,World,Percent,2007-08-01,0.43
+1177,World,Parts Per Million,2007-09-01,381.2
+1178,World,Percent,2007-09-01,0.57
+1179,World,Parts Per Million,2007-10-01,381.37
+1180,World,Percent,2007-10-01,0.54
+1181,World,Parts Per Million,2007-11-01,382.7
+1182,World,Percent,2007-11-01,0.62
+1183,World,Parts Per Million,2007-12-01,384.19
+1184,World,Percent,2007-12-01,0.57
+1185,World,Parts Per Million,2008-01-01,385.78
+1186,World,Percent,2008-01-01,0.7
+1187,World,Parts Per Million,2008-02-01,386.06
+1188,World,Percent,2008-02-01,0.51
+1189,World,Parts Per Million,2008-03-01,386.28
+1190,World,Percent,2008-03-01,0.38
+1191,World,Parts Per Million,2008-04-01,387.33
+1192,World,Percent,2008-04-01,0.16
+1193,World,Parts Per Million,2008-05-01,388.78
+1194,World,Percent,2008-05-01,0.52
+1195,World,Parts Per Million,2008-06-01,387.99
+1196,World,Percent,2008-06-01,0.43
+1197,World,Parts Per Million,2008-07-01,386.61
+1198,World,Percent,2008-07-01,0.49
+1199,World,Parts Per Million,2008-08-01,384.32
+1200,World,Percent,2008-08-01,0.54
+1201,World,Parts Per Million,2008-09-01,383.41
+1202,World,Percent,2008-09-01,0.58
+1203,World,Parts Per Million,2008-10-01,383.21
+1204,World,Percent,2008-10-01,0.48
+1205,World,Parts Per Million,2008-11-01,384.41
+1206,World,Percent,2008-11-01,0.45
+1207,World,Parts Per Million,2008-12-01,385.79
+1208,World,Percent,2008-12-01,0.42
+1209,World,Parts Per Million,2009-01-01,387.17
+1210,World,Percent,2009-01-01,0.36
+1211,World,Parts Per Million,2009-02-01,387.7
+1212,World,Percent,2009-02-01,0.42
+1213,World,Parts Per Million,2009-03-01,389.04
+1214,World,Percent,2009-03-01,0.71
+1215,World,Parts Per Million,2009-04-01,389.76
+1216,World,Percent,2009-04-01,0.63
+1217,World,Parts Per Million,2009-05-01,390.36
+1218,World,Percent,2009-05-01,0.41
+1219,World,Parts Per Million,2009-06-01,389.7
+1220,World,Percent,2009-06-01,0.44
+1221,World,Parts Per Million,2009-07-01,388.24
+1222,World,Percent,2009-07-01,0.42
+1223,World,Parts Per Million,2009-08-01,386.29
+1224,World,Percent,2009-08-01,0.51
+1225,World,Parts Per Million,2009-09-01,384.95
+1226,World,Percent,2009-09-01,0.4
+1227,World,Parts Per Million,2009-10-01,384.64
+1228,World,Percent,2009-10-01,0.37
+1229,World,Parts Per Million,2009-11-01,386.23
+1230,World,Percent,2009-11-01,0.47
+1231,World,Parts Per Million,2009-12-01,387.63
+1232,World,Percent,2009-12-01,0.48
+1233,World,Parts Per Million,2010-01-01,388.91
+1234,World,Percent,2010-01-01,0.45
+1235,World,Parts Per Million,2010-02-01,390.41
+1236,World,Percent,2010-02-01,0.7
+1237,World,Parts Per Million,2010-03-01,391.37
+1238,World,Percent,2010-03-01,0.6
+1239,World,Parts Per Million,2010-04-01,392.67
+1240,World,Percent,2010-04-01,0.75
+1241,World,Parts Per Million,2010-05-01,393.21
+1242,World,Percent,2010-05-01,0.73
+1243,World,Parts Per Million,2010-06-01,392.38
+1244,World,Percent,2010-06-01,0.69
+1245,World,Parts Per Million,2010-07-01,390.41
+1246,World,Percent,2010-07-01,0.56
+1247,World,Parts Per Million,2010-08-01,388.54
+1248,World,Percent,2010-08-01,0.58
+1249,World,Parts Per Million,2010-09-01,387.03
+1250,World,Percent,2010-09-01,0.54
+1251,World,Parts Per Million,2010-10-01,387.43
+1252,World,Percent,2010-10-01,0.73
+1253,World,Parts Per Million,2010-11-01,388.87
+1254,World,Percent,2010-11-01,0.68
+1255,World,Parts Per Million,2010-12-01,389.99
+1256,World,Percent,2010-12-01,0.61
+1257,World,Parts Per Million,2011-01-01,391.5
+1258,World,Percent,2011-01-01,0.67
+1259,World,Parts Per Million,2011-02-01,392.05
+1260,World,Percent,2011-02-01,0.42
+1261,World,Parts Per Million,2011-03-01,392.8
+1262,World,Percent,2011-03-01,0.37
+1263,World,Parts Per Million,2011-04-01,393.44
+1264,World,Percent,2011-04-01,0.2
+1265,World,Parts Per Million,2011-05-01,394.41
+1266,World,Percent,2011-05-01,0.31
+1267,World,Parts Per Million,2011-06-01,393.95
+1268,World,Percent,2011-06-01,0.4
+1269,World,Parts Per Million,2011-07-01,392.72
+1270,World,Percent,2011-07-01,0.59
+1271,World,Parts Per Million,2011-08-01,390.33
+1272,World,Percent,2011-08-01,0.46
+1273,World,Parts Per Million,2011-09-01,389.28
+1274,World,Percent,2011-09-01,0.58
+1275,World,Parts Per Million,2011-10-01,389.19
+1276,World,Percent,2011-10-01,0.45
+1277,World,Parts Per Million,2011-11-01,390.48
+1278,World,Percent,2011-11-01,0.41
+1279,World,Parts Per Million,2011-12-01,392.06
+1280,World,Percent,2011-12-01,0.53
+1281,World,Parts Per Million,2012-01-01,393.31
+1282,World,Percent,2012-01-01,0.46
+1283,World,Parts Per Million,2012-02-01,394.04
+1284,World,Percent,2012-02-01,0.51
+1285,World,Parts Per Million,2012-03-01,394.59
+1286,World,Percent,2012-03-01,0.46
+1287,World,Parts Per Million,2012-04-01,396.38
+1288,World,Percent,2012-04-01,0.75
+1289,World,Parts Per Million,2012-05-01,396.93
+1290,World,Percent,2012-05-01,0.64
+1291,World,Parts Per Million,2012-06-01,395.91
+1292,World,Percent,2012-06-01,0.5
+1293,World,Parts Per Million,2012-07-01,394.56
+1294,World,Percent,2012-07-01,0.47
+1295,World,Parts Per Million,2012-08-01,392.59
+1296,World,Percent,2012-08-01,0.58
+1297,World,Parts Per Million,2012-09-01,391.32
+1298,World,Percent,2012-09-01,0.52
+1299,World,Parts Per Million,2012-10-01,391.27
+1300,World,Percent,2012-10-01,0.53
+1301,World,Parts Per Million,2012-11-01,393.2
+1302,World,Percent,2012-11-01,0.7
+1303,World,Parts Per Million,2012-12-01,394.57
+1304,World,Percent,2012-12-01,0.64
+1305,World,Parts Per Million,2013-01-01,395.78
+1306,World,Percent,2013-01-01,0.63
+1307,World,Parts Per Million,2013-02-01,397.03
+1308,World,Percent,2013-02-01,0.76
+1309,World,Parts Per Million,2013-03-01,397.66
+1310,World,Percent,2013-03-01,0.78
+1311,World,Parts Per Million,2013-04-01,398.64
+1312,World,Percent,2013-04-01,0.57
+1313,World,Parts Per Million,2013-05-01,400.02
+1314,World,Percent,2013-05-01,0.78
+1315,World,Parts Per Million,2013-06-01,398.81
+1316,World,Percent,2013-06-01,0.73
+1317,World,Parts Per Million,2013-07-01,397.51
+1318,World,Percent,2013-07-01,0.75
+1319,World,Parts Per Million,2013-08-01,395.39
+1320,World,Percent,2013-08-01,0.71
+1321,World,Parts Per Million,2013-09-01,393.72
+1322,World,Percent,2013-09-01,0.61
+1323,World,Parts Per Million,2013-10-01,393.9
+1324,World,Percent,2013-10-01,0.67
+1325,World,Parts Per Million,2013-11-01,395.36
+1326,World,Percent,2013-11-01,0.55
+1327,World,Parts Per Million,2013-12-01,397.03
+1328,World,Percent,2013-12-01,0.62
+1329,World,Parts Per Million,2014-01-01,398.04
+1330,World,Percent,2014-01-01,0.57
+1331,World,Parts Per Million,2014-02-01,398.27
+1332,World,Percent,2014-02-01,0.31
+1333,World,Parts Per Million,2014-03-01,399.91
+1334,World,Percent,2014-03-01,0.57
+1335,World,Parts Per Million,2014-04-01,401.51
+1336,World,Percent,2014-04-01,0.72
+1337,World,Parts Per Million,2014-05-01,401.96
+1338,World,Percent,2014-05-01,0.48
+1339,World,Parts Per Million,2014-06-01,401.43
+1340,World,Percent,2014-06-01,0.66
+1341,World,Parts Per Million,2014-07-01,399.27
+1342,World,Percent,2014-07-01,0.44
+1343,World,Parts Per Million,2014-08-01,397.18
+1344,World,Percent,2014-08-01,0.45
+1345,World,Parts Per Million,2014-09-01,395.54
+1346,World,Percent,2014-09-01,0.46
+1347,World,Parts Per Million,2014-10-01,396.16
+1348,World,Percent,2014-10-01,0.57
+1349,World,Parts Per Million,2014-11-01,397.4
+1350,World,Percent,2014-11-01,0.52
+1351,World,Parts Per Million,2014-12-01,399.08
+1352,World,Percent,2014-12-01,0.52
+1353,World,Parts Per Million,2015-01-01,400.18
+1354,World,Percent,2015-01-01,0.54
+1355,World,Parts Per Million,2015-02-01,400.55
+1356,World,Percent,2015-02-01,0.57
+1357,World,Parts Per Million,2015-03-01,401.74
+1358,World,Percent,2015-03-01,0.46
+1359,World,Parts Per Million,2015-04-01,403.35
+1360,World,Percent,2015-04-01,0.46
+1361,World,Parts Per Million,2015-05-01,404.15
+1362,World,Percent,2015-05-01,0.54
+1363,World,Parts Per Million,2015-06-01,402.97
+1364,World,Percent,2015-06-01,0.38
+1365,World,Parts Per Million,2015-07-01,401.46
+1366,World,Percent,2015-07-01,0.55
+1367,World,Parts Per Million,2015-08-01,399.11
+1368,World,Percent,2015-08-01,0.49
+1369,World,Parts Per Million,2015-09-01,397.82
+1370,World,Percent,2015-09-01,0.58
+1371,World,Parts Per Million,2015-10-01,398.49
+1372,World,Percent,2015-10-01,0.59
+1373,World,Parts Per Million,2015-11-01,400.27
+1374,World,Percent,2015-11-01,0.72
+1375,World,Parts Per Million,2015-12-01,402.06
+1376,World,Percent,2015-12-01,0.75
+1377,World,Parts Per Million,2016-01-01,402.73
+1378,World,Percent,2016-01-01,0.64
+1379,World,Parts Per Million,2016-02-01,404.25
+1380,World,Percent,2016-02-01,0.92
+1381,World,Parts Per Million,2016-03-01,405.06
+1382,World,Percent,2016-03-01,0.83
+1383,World,Parts Per Million,2016-04-01,407.6
+1384,World,Percent,2016-04-01,1.05
+1385,World,Parts Per Million,2016-05-01,407.9
+1386,World,Percent,2016-05-01,0.93
+1387,World,Parts Per Million,2016-06-01,406.99
+1388,World,Percent,2016-06-01,1.0
+1389,World,Parts Per Million,2016-07-01,404.59
+1390,World,Percent,2016-07-01,0.78
+1391,World,Parts Per Million,2016-08-01,402.45
+1392,World,Percent,2016-08-01,0.84
+1393,World,Parts Per Million,2016-09-01,401.23
+1394,World,Percent,2016-09-01,0.86
+1395,World,Parts Per Million,2016-10-01,401.79
+1396,World,Percent,2016-10-01,0.83
+1397,World,Parts Per Million,2016-11-01,403.72
+1398,World,Percent,2016-11-01,0.86
+1399,World,Parts Per Million,2016-12-01,404.64
+1400,World,Percent,2016-12-01,0.64
+1401,World,Parts Per Million,2017-01-01,406.36
+1402,World,Percent,2017-01-01,0.9
+1403,World,Parts Per Million,2017-02-01,406.66
+1404,World,Percent,2017-02-01,0.6
+1405,World,Parts Per Million,2017-03-01,407.54
+1406,World,Percent,2017-03-01,0.61
+1407,World,Parts Per Million,2017-04-01,409.22
+1408,World,Percent,2017-04-01,0.4
+1409,World,Parts Per Million,2017-05-01,409.89
+1410,World,Percent,2017-05-01,0.49
+1411,World,Parts Per Million,2017-06-01,409.08
+1412,World,Percent,2017-06-01,0.51
+1413,World,Parts Per Million,2017-07-01,407.33
+1414,World,Percent,2017-07-01,0.68
+1415,World,Parts Per Million,2017-08-01,405.32
+1416,World,Percent,2017-08-01,0.71
+1417,World,Parts Per Million,2017-09-01,403.57
+1418,World,Percent,2017-09-01,0.58
+1419,World,Parts Per Million,2017-10-01,403.82
+1420,World,Percent,2017-10-01,0.51
+1421,World,Parts Per Million,2017-11-01,405.31
+1422,World,Percent,2017-11-01,0.39
+1423,World,Parts Per Million,2017-12-01,407.0
+1424,World,Percent,2017-12-01,0.58
+1425,World,Parts Per Million,2018-01-01,408.15
+1426,World,Percent,2018-01-01,0.44
+1427,World,Parts Per Million,2018-02-01,408.52
+1428,World,Percent,2018-02-01,0.46
+1429,World,Parts Per Million,2018-03-01,409.59
+1430,World,Percent,2018-03-01,0.5
+1431,World,Parts Per Million,2018-04-01,410.45
+1432,World,Percent,2018-04-01,0.3
+1433,World,Parts Per Million,2018-05-01,411.44
+1434,World,Percent,2018-05-01,0.38
+1435,World,Parts Per Million,2018-06-01,410.99
+1436,World,Percent,2018-06-01,0.47
+1437,World,Parts Per Million,2018-07-01,408.9
+1438,World,Percent,2018-07-01,0.39
+1439,World,Parts Per Million,2018-08-01,407.16
+1440,World,Percent,2018-08-01,0.45
+1441,World,Parts Per Million,2018-09-01,405.71
+1442,World,Percent,2018-09-01,0.53
+1443,World,Parts Per Million,2018-10-01,406.19
+1444,World,Percent,2018-10-01,0.59
+1445,World,Parts Per Million,2018-11-01,408.21
+1446,World,Percent,2018-11-01,0.72
+1447,World,Parts Per Million,2018-12-01,409.27
+1448,World,Percent,2018-12-01,0.56
+1449,World,Parts Per Million,2019-01-01,411.03
+1450,World,Percent,2019-01-01,0.71
+1451,World,Parts Per Million,2019-02-01,411.96
+1452,World,Percent,2019-02-01,0.84
+1453,World,Parts Per Million,2019-03-01,412.18
+1454,World,Percent,2019-03-01,0.63
+1455,World,Parts Per Million,2019-04-01,413.54
+1456,World,Percent,2019-04-01,0.75
+1457,World,Parts Per Million,2019-05-01,414.86
+1458,World,Percent,2019-05-01,0.83
+1459,World,Parts Per Million,2019-06-01,414.16
+1460,World,Percent,2019-06-01,0.77
+1461,World,Parts Per Million,2019-07-01,411.97
+1462,World,Percent,2019-07-01,0.75
+1463,World,Parts Per Million,2019-08-01,410.18
+1464,World,Percent,2019-08-01,0.74
+1465,World,Parts Per Million,2019-09-01,408.76
+1466,World,Percent,2019-09-01,0.75
+1467,World,Parts Per Million,2019-10-01,408.75
+1468,World,Percent,2019-10-01,0.63
+1469,World,Parts Per Million,2019-11-01,410.48
+1470,World,Percent,2019-11-01,0.56
+1471,World,Parts Per Million,2019-12-01,411.98
+1472,World,Percent,2019-12-01,0.66
+1473,World,Parts Per Million,2020-01-01,413.61
+1474,World,Percent,2020-01-01,0.63
+1475,World,Parts Per Million,2020-02-01,414.34
+1476,World,Percent,2020-02-01,0.58
+1477,World,Parts Per Million,2020-03-01,414.74
+1478,World,Percent,2020-03-01,0.62
+1479,World,Parts Per Million,2020-04-01,416.45
+1480,World,Percent,2020-04-01,0.7
+1481,World,Parts Per Million,2020-05-01,417.31
+1482,World,Percent,2020-05-01,0.59
+1483,World,Parts Per Million,2020-06-01,416.6
+1484,World,Percent,2020-06-01,0.59
+1485,World,Parts Per Million,2020-07-01,414.62
+1486,World,Percent,2020-07-01,0.64
+1487,World,Parts Per Million,2020-08-01,412.78
+1488,World,Percent,2020-08-01,0.63
+1489,World,Parts Per Million,2020-09-01,411.52
+1490,World,Percent,2020-09-01,0.68
+1491,World,Parts Per Million,2020-10-01,411.51
+1492,World,Percent,2020-10-01,0.68
+1493,World,Parts Per Million,2020-11-01,413.12
+1494,World,Percent,2020-11-01,0.64
+1495,World,Parts Per Million,2020-12-01,414.26
+1496,World,Percent,2020-12-01,0.55
+1497,World,Parts Per Million,2021-01-01,415.52
+1498,World,Percent,2021-01-01,0.46
+1499,World,Parts Per Million,2021-02-01,416.75
+1500,World,Percent,2021-02-01,0.58
+1501,World,Parts Per Million,2021-03-01,417.64
+1502,World,Percent,2021-03-01,0.7
+1503,World,Parts Per Million,2021-04-01,419.05
+1504,World,Percent,2021-04-01,0.62
+1505,World,Parts Per Million,2021-05-01,419.13
+1506,World,Percent,2021-05-01,0.44
+1507,World,Parts Per Million,2021-06-01,418.94
+1508,World,Percent,2021-06-01,0.56
+1509,World,Parts Per Million,2021-07-01,416.96
+1510,World,Percent,2021-07-01,0.56
+1511,World,Parts Per Million,2021-08-01,414.47
+1512,World,Percent,2021-08-01,0.41
+1513,World,Parts Per Million,2021-09-01,413.3
+1514,World,Percent,2021-09-01,0.43
+1515,World,Parts Per Million,2021-10-01,413.93
+1516,World,Percent,2021-10-01,0.59
+1517,World,Parts Per Million,2021-11-01,415.01
+1518,World,Percent,2021-11-01,0.46
+1519,World,Parts Per Million,2021-12-01,416.71
+1520,World,Percent,2021-12-01,0.59
+1521,World,Parts Per Million,2022-01-01,418.19
+1522,World,Percent,2022-01-01,0.64
+1523,World,Parts Per Million,2022-02-01,419.28
+1524,World,Percent,2022-02-01,0.61
+1525,World,Parts Per Million,2022-03-01,418.81
+1526,World,Percent,2022-03-01,0.28
+1527,World,Parts Per Million,2022-04-01,420.23
+1528,World,Percent,2022-04-01,0.28
+1529,World,Parts Per Million,2022-05-01,420.99
+1530,World,Percent,2022-05-01,0.44
+1531,World,Parts Per Million,2022-06-01,420.99
+1532,World,Percent,2022-06-01,0.49
+1533,World,Parts Per Million,2022-07-01,418.9
+1534,World,Percent,2022-07-01,0.47
+1535,World,Parts Per Million,2022-08-01,417.19
+1536,World,Percent,2022-08-01,0.66
+1537,World,Parts Per Million,2022-09-01,415.95
+1538,World,Percent,2022-09-01,0.64
+1539,World,Parts Per Million,2022-10-01,415.78
+1540,World,Percent,2022-10-01,0.45
+1541,World,Parts Per Million,2022-11-01,417.51
+1542,World,Percent,2022-11-01,0.6
+1543,World,Parts Per Million,2022-12-01,418.95
+1544,World,Percent,2022-12-01,0.54
+1545,World,Parts Per Million,2023-01-01,419.47
+1546,World,Percent,2023-01-01,0.31
+1547,World,Parts Per Million,2023-02-01,420.41
+1548,World,Percent,2023-02-01,0.27
