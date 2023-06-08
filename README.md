@@ -18,6 +18,21 @@ Summary:
   - Encourage consumers to make more sustainable choices in their daily lives
 
 
+Further Explaination of climate_data_cleaning.ipynb:
+- Sourced from climatedata.imf.org:
+  -  surface_temp_change_df
+  -  atmospheric_co2_df
+  -  sea_levels_df
+  -  disaster_frequency_df
+  -  forests_and_carbon_df
+ 
+ -Sourced from Kaggle:
+  - environment_temp_change_df
+  - FAOSTAT_DATA_11_24_2020.csv (Data Frame removed, no relevant information)
+
+Please reference the original csv's for source info and indicator specifications that will clarify the cleaned data. Some columns were dropped to streamline the ML process.
+  
+
 
 Group Members:
 Helin 
@@ -32,5 +47,7 @@ Anna- Python/Machine-learning
 Helin- Tableau Visualizations and Presentation setup
 
 Sources:
-International Monetary Fund. 2022.Climate Change Indicators Dashboard. https://climatedata.imf.org/pages/access-data. Accessed on [2023-06-06]
+International Monetary Fund. 2022. Climate Change Indicators Dashboard. https://climatedata.imf.org/pages/access-data. Accessed on [2023-06-06]
 https://cwfis.cfs.nrcan.gc.ca/ha/nfdb 
+
+Sevgi Sy. (February 2021). Climate Change, Version 9. Retrieved 2023-06-06 from https://www.kaggle.com/code/sevgisarac/climate-change/
