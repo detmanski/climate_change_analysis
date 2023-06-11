@@ -1,25 +1,23 @@
 # climate_change_analysis
 
 Summary:
+  - Using machine learning to predict global warming impacts based on data over the last 60 years.
+  - Target y values indicates the temperature prediction in next 40 years
 
-- Using machine learning to predict global warming impacts based on data over the last (#) years.
-- Target y values being # or percent changed (?)
-- Areas of research:
-  
-  -deforestation/forest fires
+Areas of research:
+  - deforestation/forest fires
   - Global temperature change
   - CO2 gas levels
   - Rising Sea Levels
   - Ocean Warming
  
- - This inforvation can be adventageous in numerous ways:
+This inforvation can be adventageous in numerous ways:
   - Emergency preparedness
   - Encourage governments and industry leaders to implement more sustainable practices
   - Encourage consumers to make more sustainable choices in their daily lives
 
-
 Further Explaination of climate_data_cleaning.ipynb:
-- Sourced from climatedata.imf.org:
+  ## Sourced from climatedata.imf.org:
   -  surface_temp_change_df
   -  atmospheric_co2_df
   -  sea_levels_df
@@ -27,23 +25,22 @@ Further Explaination of climate_data_cleaning.ipynb:
   -  forests_and_carbon_df
  
  -Sourced from Kaggle:
-  - environment_temp_change_df
-  - FAOSTAT_DATA_11_24_2020.csv (Data Frame removed, no relevant information)
+  - Environment_Temperature_change
+
+
 
 Please reference the original csv's for source info and indicator specifications that will clarify the cleaned data. Some columns were dropped to streamline the ML process.
   
-
-
-Group Members:
-Helin 
-Tejas
-Anna
-Dianne
+## Group Members:
+1. Helin 
+2. Tejas
+3. Anna
+4. Dianne
 
 Work divided as follows (so far):
 Dianne- Data cleaning and SQL Database 
 Tejas- Python/Machine-learning
-Anna- Python/Machine-learning
+Anna- Python/Data Visualisation
 Helin- Tableau Visualizations and Presentation setup
 
 Sources:
