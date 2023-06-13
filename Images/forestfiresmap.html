@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive Wildfires Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <style>
+        #map { height: 100vh; }
+        .control-panel {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1000; /* Ensure it's above the map */
+        }
+        .control-panel select {
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="control-panel">
+        <select id="year"></select>
+        <select id="cause"></select>
+    </div>
+    <script>
+        var map = L.map('map').setView([0, 0], 2);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+        }).addTo(map);
+
+        var FireIcon = L.icon({
+            iconUrl: 'fire_icon.png',
+            iconSize: [25, 25], // size of the icon
+        });
+
+        var years = [];
+        var causes = [];
+        var data;
+
+        $.getJSON('af-historic-wildfires.json')
+        .done(function(result) {
+            data = result;
+            data.forEach(function(row) {
+                if (!years.includes(row.fire_year)) {
+                    years.push(row.fire_year);
+                    $('#year').append(new Option(row.fire_year, row.fire_year));
+                }
+                if (row.general_cause_desc && !causes.includes(row.general_cause_desc)) {
+                    causes.push(row.general_cause_desc);
+                    $('#cause').append(new Option(row.general_cause_desc, row.general_cause_desc));
+                }
+            });
+            displayMarkers(data);
+        })
+        .fail(function(jqxhr, textStatus, error) {
+            var err = textStatus + ", " + error;
+            console.log("Request Failed: " + err);
+        });
+
+        $('#year, #cause').on('change', function() {
+            displayMarkers();
+        });
+
+        function displayMarkers() {
+            var selectedYear = $('#year').val();
+            var selectedCause = $('#cause').val();
+            data.forEach(function(row) {
+                if (row.fire_year == selectedYear && row.general_cause_desc == selectedCause) {
+                    L.marker([row.fire_location_latitude, row.fire_location_longitude], {icon: FireIcon}).addTo(map);
+                }
+            });
+        }
+    </script>
+</body>
+</html>
