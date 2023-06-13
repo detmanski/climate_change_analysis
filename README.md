@@ -27,17 +27,18 @@ Further Explaination of climate_data_cleaning.ipynb:
  -Sourced from Kaggle:
   - Environment_Temperature_change
 
+Please reference the base_data folder for source info and indicator specifications that will clarify the cleaned data. Some columns were dropped to streamline the ML process.
 
-
-Please reference the original csv's for source info and indicator specifications that will clarify the cleaned data. Some columns were dropped to streamline the ML process.
+The Tableau public dashboard and visualizations can be found at:
+https://public.tableau.com/views/ClimateChange_16865484886420/ClimateChange?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
   
 ## Group Members:
-1. Helin 
-2. Tejas
-3. Anna
-4. Dianne
+1. Helin Kanya
+2. Tejas Sharma
+3. Anna Puzinovici
+4. Dianne Etmanski
 
-Work divided as follows (so far):
+Work divided as follows:
 Dianne- Data cleaning and SQL Database 
 Tejas- Python/Machine-learning
 Anna- Python/Data Visualisation
