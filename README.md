@@ -11,7 +11,7 @@ Areas of research:
   - Rising Sea Levels
   - Ocean Warming
  
-This inforvation can be adventageous in numerous ways:
+This information can be adventageous in numerous ways:
   - Emergency preparedness
   - Encourage governments and industry leaders to implement more sustainable practices
   - Encourage consumers to make more sustainable choices in their daily lives
