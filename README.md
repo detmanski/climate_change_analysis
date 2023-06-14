@@ -46,6 +46,9 @@ Helin- Tableau Visualizations and Presentation setup
 
 Sources:
 International Monetary Fund. 2022. Climate Change Indicators Dashboard. https://climatedata.imf.org/pages/access-data. Accessed on [2023-06-06]
-https://cwfis.cfs.nrcan.gc.ca/ha/nfdb 
+
+Canadian National Fire Database. https://cwfis.cfs.nrcan.gc.ca/ha/nfdb 
 
 Sevgi Sy. (February 2021). Climate Change, Version 9. Retrieved 2023-06-06 from https://www.kaggle.com/code/sevgisarac/climate-change/
+
+National Forestry Database. http://nfdp.ccfm.org/en/data/fires.php#tab311
